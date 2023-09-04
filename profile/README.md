@@ -1,10 +1,10 @@
-<img width="100%" src="profile/images/logo-extended-dark.svg" alt="AI Chat Logo">
+<img width="100%" src="https://raw.githubusercontent.com/aichat-bot/.github/main/profile/images/logo-extended-dark.svg" alt="AI Chat Logo">
 
-An innovative solution for managing AI-powered chatbots, enhancing customer interactions, and revolutionizing engagement. This repository serves as the central hub for the AI Chat project, encompassing frontend applications, backend services, and more.
+An innovative solution for managing AI-powered chatbots, enhancing customer interactions, and revolutionizing engagement.
 
 ## Table of Contents
 
-- [About](#about-ai-chat)
+- [About AI Chat](#about-ai-chat)
 - [Project stack](#project-stack)
 - [Creating and managing Chatbots](#creating-and-managing-chatbots)
 
