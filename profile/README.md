@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/aichat-bot/.github/main/profile/images/logo-extended-dark.svg" alt="AI Chat Logo">
+<img width="100%" src="https://raw.githubusercontent.com/aichat-bot/.github/main/profile/images/logo-extended.svg" alt="AI Chat Logo">
 
 An innovative solution for managing AI-powered chatbots, enhancing customer interactions, and revolutionizing engagement.
 
